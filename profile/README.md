@@ -90,10 +90,10 @@
 |34|9주차|백준|[BOJ1644](https://www.acmicpc.net/problem/1644)|소수의 연속합|❌|✅|✅|❌|
 |35|9주차|백준|[BOJ20922](https://www.acmicpc.net/problem/20922)|겹치는 건 싫어|❌|✅|✅|✅|
 |36|9주차|프로그래머스|[Programmers43238](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|구명보트|❌|✅|✅|✅|
-|37|10주차||||||||
-|38|10주차||||||||
-|39|10주차||||||||
-|40|10주차||||||||
+|37|10주차|백준|[BOJ11123](https://www.acmicpc.net/problem/11123)|양 한마리... 양 두마리...|❌|✅|✅|✅|
+|38|10주차|프로그래머스|[Programmers258711](https://school.programmers.co.kr/learn/courses/30/lessons/258711)|도넛과 막대 그래프|❌|❌|✅|❌|
+|39|10주차|백준|[BOJ7569](https://www.acmicpc.net/problem/7569)|토마토|❌|✅|✅|✅|
+|40|10주차|백준|[BOJ13023](https://www.acmicpc.net/problem/13023)|ABCDE|❌|❌|✅|✅|
 
 # **[ 🚫 규칙 ]**
 ### **📌 알고리즘 이론 발표**
@@ -345,8 +345,8 @@
 |No|플랫폼|문제번호|문제명|난이도|분류|부 분류
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[BOJ1058](https://www.acmicpc.net/problem/1058)|친구|Silver 2|그래프 탐색|그래프 이론, 브루트포스 알고리즘, 최단 경로, 플로이드–워셜|
-|2|||||||
-|3|||||||
+|2|백준|[BOJ2667](https://www.acmicpc.net/problem/2667)|단지번호붙이기|Silver 1|그래프 탐색||
+|3|백준|[BOJ5567](https://www.acmicpc.net/problem/5567)|결혼식|Silver 2|그래프 탐색|그래프 이론|
 
 
 - 과제:
@@ -355,8 +355,8 @@
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[BOJ11123](https://www.acmicpc.net/problem/11123)|양 한마리... 양 두마리... |Silver 2|그래프 탐색|그래프 이론, 너비 우선 탐색, 깊이 우선 탐색|
 |2|프로그래머스|[Programmers258711](https://school.programmers.co.kr/learn/courses/30/lessons/258711)|도넛과 막대 그래프|Level 2|그래프 탐색||
-|3|||||||
-|4|||||||
+|3|백준|[BOJ7569](https://www.acmicpc.net/problem/7569)|토마토|Gold 5|그래프와 탐색||
+|4|백준|[BOJ13023](https://www.acmicpc.net/problem/13023)|ABCDE|Gold 5|그래프와 탐색||
 
 
 -----------------------------------
